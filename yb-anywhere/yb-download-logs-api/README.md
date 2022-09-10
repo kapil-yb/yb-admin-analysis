@@ -5,7 +5,7 @@ Tool to download logs using Yugabyte Anywhere API for all the nodes.
 This program can ONLY download the current logs i.e. yb-tserver.INFO and yb-master.INFO ( Not the old logs)
 
 
-### Execute the script with ipython
+## Execute the script with ipython
 
 ipython yb-download-logs.py
 
